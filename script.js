@@ -3,7 +3,7 @@ const listContainer = document.getElementById("list-container");
 
 function addTask(){
     if(inputBox.value ===''){
-    alert("you must write something!");
+    alert("something woring!");
         
 }
 else{ 
